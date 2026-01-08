@@ -8,6 +8,6 @@ I have a BSc and MSc in Biological Sciences from [ETH Zurich](https://ethz.ch/en
 
 You can reach out to me [at]filippoweb3 on Twitter/X and LinkedIn.
 
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=filippoweb3&show_icons=true&locale=en&count_private=true&theme=transparent&cache_seconds=86400" alt="filippoweb3" />
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=filippoweb3&show_icons=true&locale=en&count_private=true&theme=transparent&cache_seconds=86400" />
 
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippoweb3&hide_progress=true&show_icons=true&locale=en&count_private=true&theme=transparent&cache_seconds=86400" alt="filippoweb3" />
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippoweb3&hide_progress=true&show_icons=true&locale=en&count_private=true&theme=transparent&cache_seconds=86400" />
