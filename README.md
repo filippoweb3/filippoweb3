@@ -2,7 +2,7 @@
 
 I am part of the Research, Invest and Advise Team at [Bitcoin Suisse](https://bitcoinsuisse.com/).
 
-I am a [ETH Zurich](https://ethz.ch/en.html) and [the University of Essex](https://www.essex.ac.uk/) Alum, and I have a PhD in Statistics & Engineering from [the University of St Andrews](https://www.st-andrews.ac.uk/). I graduated from the Polkadot Blockchain Academy 2025 in Luzern as a blockchain engineer, see [the poof](https://kodadot.xyz/ahp/gallery/453-24) on the Polkadot Hub.
+I am a [ETH Zurich](https://ethz.ch/en.html) and [the University of Essex](https://www.essex.ac.uk/) Alum, and I have a PhD in Statistics & Engineering from [the University of St Andrews](https://www.st-andrews.ac.uk/). I graduated from the Polkadot Blockchain Academy 2025 in Luzern as a blockchain engineer, see [the poof](https://chaotic.art/ahp/gallery/453-24) on the Polkadot Hub.
 
 You can reach out to me [at]filippoweb3 on [Twitter/X](https://x.com/filippoweb3) and [LinkedIn](https://www.linkedin.com/in/filippoweb3/).
 
